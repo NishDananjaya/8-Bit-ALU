@@ -108,7 +108,7 @@ State_out            : out std_logic_vector(2 downto 0)
 
 ## Author
 
-[Your Name] – FPGA / Digital Design Enthusiast
+[Nishan Dananjaya] – FPGA / Digital Design Enthusiast
 
 ---
 
