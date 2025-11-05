@@ -1,0 +1,12 @@
+db
+incremental_db
+output_files
+simulation
+ALU.bsf
+alu.vhd.bak
+course.qpf
+course.qsf
+course.qws
+dff_8.vhd.bak
+fsm.vhd.bak
+mux21_8.vhd.bak
